@@ -2,13 +2,15 @@
 
 This GitHub repo contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions with questions, data, regression models, performance validation, and discussion, providing a solid reference for your future scientific research.
 
-## Table of Contents
+## Contents
 
 - **File Structure**
+'''
     /
   ├── dataset/ # Input data files
   ├── code/ # Output files
   └── README.md # This README file
+'''
 - **Input**
 - **Output**
   
