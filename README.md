@@ -7,7 +7,7 @@ This GitHub repository contains documents designed to demonstrate the process of
     /
       ├── TCGA dataset/ # Input data files
       
-          exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder for Acute Myeloid Leukemia (AML) and the LAML gene
+          exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder for Acute Myeloid Leukemia (LAML) cases, including both tumor samples and normal samples
           
           ├── TCGA.LAML.sampleMap_LAML_clinicalMatrix # Clinical data
           
