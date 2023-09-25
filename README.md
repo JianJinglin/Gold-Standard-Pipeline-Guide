@@ -4,7 +4,7 @@ This GitHub repository contains documents designed to demonstrate the process of
 
 ## File Structure
 
-'''
+'''python
     /
   ├── TCGA dataset/ # Input data files
       exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder about selected cancer **Acute Myeloid Leukemia** and selected gene **LAML**
