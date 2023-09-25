@@ -1,25 +1,28 @@
 # Gold-Standard-Pipeline-Guide
 
-This GitHub repo contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions with questions, data, regression models, performance validation, and discussion, providing a reference for your future scientific research.
+This GitHub repository contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions for questions, data, regression models, performance validation, and discussions, providing a reference for your own scientific project.
 
 ## File Structure
 
 '''
     /
-  ├── dataset/ # Input data files
-  ├── code/ # Output files
+  ├── TCGA dataset/ # Input data files
+      exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder about selected cancer **Acute Myeloid Leukemia** and selected gene **LAML**
+      ├── TCGA.LAML.sampleMap_LAML_clinicalMatrix # Clinical data
+      ├── TCGA.LAML.sampleMap_HiSeqV2_PANCAN.gz # Gene Expression data
+  ├── gold_standard_pipeline.ipynb/ # Pipeline code file
   └── README.md # This README file
 '''
 
 ## **Input**
 
-- **Research Questions**: A set of research questions related to gene-disease relationships.
-- **Dataset**: Datasets including gene expression data and clinical data.
+- **Research Questions**: A set of research questions related to gene-cancer relationships.
+- **Dataset**: Datasets including clinical data and gene expression data.
 
 ## **Output**
 
-- **Research Questions**: A set of research questions related to gene-disease relationships.
-- **Dataset**: Datasets including gene expression data and clinical data.
+- **Regression Model**: Utilize a regression model to fit high-dimensional gene data, clinical data, and cancer diagnosis status to explore the relationship between genes and cancer.
+- **Discussion**: Analyze and discuss the coefficients and significance of the regression model to draw conclusions related to the research questions.
 
 ## Issues
 
