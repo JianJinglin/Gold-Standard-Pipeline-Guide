@@ -1,6 +1,6 @@
 # Gold-Standard-Pipeline-Guide
 
-This GitHub repository contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions for questions, data, regression models, performance validation, and discussions, providing a reference for your own scientific project.
+This GitHub repository contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions to the questions by analyzing the data, involving regression models, performance validation, and discussion.
 
 ## File Structure
 
