@@ -5,17 +5,17 @@ This GitHub repository contains documents designed to demonstrate the process of
 ## File Structure
 
     /
-  ├── TCGA dataset/ # Input data files
-  
-      exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder about selected cancer **Acute Myeloid Leukemia** and selected gene **LAML**
+      ├── TCGA dataset/ # Input data files
       
-      ├── TCGA.LAML.sampleMap_LAML_clinicalMatrix # Clinical data
+          exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder about selected cancer **Acute Myeloid Leukemia** and selected gene **LAML**
+          
+          ├── TCGA.LAML.sampleMap_LAML_clinicalMatrix # Clinical data
+          
+          ├── TCGA.LAML.sampleMap_HiSeqV2_PANCAN.gz # Gene Expression data
+          
+      ├── gold_standard_pipeline.ipynb/ # Pipeline code file
       
-      ├── TCGA.LAML.sampleMap_HiSeqV2_PANCAN.gz # Gene Expression data
-      
-  ├── gold_standard_pipeline.ipynb/ # Pipeline code file
-  
-  └── README.md # This README file
+      └── README.md # This README file
 
 ## **Input**
 
