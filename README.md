@@ -1,25 +1,25 @@
 # Gold-Standard-Pipeline-Guide
 
-This GitHub repo contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions with questions, data, regression models, performance validation, and discussion, providing a solid reference for your future scientific research.
+This GitHub repo contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions with questions, data, regression models, performance validation, and discussion, providing a reference for your future scientific research.
 
-## Contents
+## File Structure
 
-- **File Structure**
 '''
     /
   ├── dataset/ # Input data files
   ├── code/ # Output files
   └── README.md # This README file
 '''
-- **Input**
-- **Output**
-  
-## How to Use This Repo
 
-1. Clone this repo to your local environment.
-2. Explore the various sections to understand the Gold Standard process and its significance.
-3. Follow the guide to solve selected research questions and generate gold standards.
-4. Gain insight into applying these methods to your own scientific projects.
+## **Input**
+
+- **Research Questions**: A set of research questions related to gene-disease relationships.
+- **Dataset**: Datasets including gene expression data and clinical data.
+
+## **Output**
+
+- **Research Questions**: A set of research questions related to gene-disease relationships.
+- **Dataset**: Datasets including gene expression data and clinical data.
 
 ## Issues
 
