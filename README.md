@@ -14,6 +14,8 @@ This GitHub repository contains documents designed to demonstrate the process of
           ├── TCGA.LAML.sampleMap_HiSeqV2_PANCAN.gz # Gene Expression data
           
       ├── gold_standard_pipeline.ipynb/ # Pipeline code file
+
+      ├── Question/ # Question folder
       
       └── README.md # This README file
 
