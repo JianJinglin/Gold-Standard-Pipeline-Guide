@@ -1,25 +1,31 @@
 # Gold-Standard-Pipeline-Guide
 
-This GitHub repo contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions with questions, data, regression models, performance validation, and discussion, providing a solid reference for your future scientific research.
+This GitHub repository contains documents designed to demonstrate the process of a gold standard pipeline to students. By following this guide, you will learn how to generate reliable solutions to the questions by analyzing the data, involving regression models, performance validation, and discussion.
 
-## Contents
+## File Structure
 
-- **File Structure**
-'''
     /
-  ├── dataset/ # Input data files
-  ├── code/ # Output files
-  └── README.md # This README file
-'''
-- **Input**
-- **Output**
-  
-## How to Use This Repo
+      ├── TCGA dataset/ # Input data files
+      
+          exp. TCGA_Acute_Myeloid_Leukemia_(LAML)/ # Dataset folder for Acute Myeloid Leukemia (LAML) cases, including both tumor samples and normal samples
+          
+          ├── TCGA.LAML.sampleMap_LAML_clinicalMatrix # Clinical data
+          
+          ├── TCGA.LAML.sampleMap_HiSeqV2_PANCAN.gz # Gene Expression data
+          
+      ├── gold_standard_pipeline.ipynb/ # Pipeline code file
+      
+      └── README.md # This README file
 
-1. Clone this repo to your local environment.
-2. Explore the various sections to understand the Gold Standard process and its significance.
-3. Follow the guide to solve selected research questions and generate gold standards.
-4. Gain insight into applying these methods to your own scientific projects.
+## **Input**
+
+- **Research Questions**: A set of research questions related to gene-cancer relationships.
+- **Dataset**: Datasets including clinical data and gene expression data.
+
+## **Output**
+
+- **Regression Model**: Utilize a regression model to fit high-dimensional gene data, clinical data, and cancer diagnosis status to explore the relationship between genes and cancer.
+- **Discussion**: Analyze and discuss the coefficients and significance of the regression model to draw conclusions related to the research questions.
 
 ## Issues
 
