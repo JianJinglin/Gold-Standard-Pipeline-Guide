@@ -1,0 +1,100 @@
+1: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypertension (high blood pressure)?
+2: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypotension (low blood pressure)?
+3: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypercholesterolemia (high cholesterol levels)?
+4: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypocholesterolemia (low cholesterol levels)?
+5: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Diabetes mellitus?
+6: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Obesity?
+7: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Underweight?
+8: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Thyroid dysfunction?
+9: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Asthma?
+10: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chronic obstructive pulmonary disease (COPD)?
+11: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Allergies?
+12: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chronic bronchitis?
+13: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Emphysema?
+14: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Obstructive sleep apnea?
+15: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Insomnia?
+16: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Depression?
+17: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Anxiety disorder?
+18: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Bipolar disorder?
+19: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Schizophrenia?
+20: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Attention deficit hyperactivity disorder (ADHD)?
+21: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Autism spectrum disorder (ASD)?
+22: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Alzheimer's disease?
+23: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Parkinson's disease?
+24: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Multiple sclerosis?
+25: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Epilepsy?
+26: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Migraine?
+27: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Stroke?
+28: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Coronary artery disease?
+29: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Congestive heart failure?
+30: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Arrhythmia?
+31: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Atherosclerosis?
+32: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chronic kidney disease?
+33: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Kidney stones?
+34: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Urinary incontinence?
+35: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Gastroesophageal reflux disease (GERD)?
+36: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Peptic ulcer disease?
+37: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Inflammatory bowel disease (Crohn's disease, ulcerative colitis)?
+38: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Irritable bowel syndrome (IBS)?
+39: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Celiac disease?
+40: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Liver cirrhosis?
+41: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hepatitis?
+42: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Gallstones?
+43: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hemorrhoids?
+44: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Osteoporosis?
+45: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Rheumatoid arthritis?
+46: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Osteoarthritis?
+47: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Gout?
+48: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Fibromyalgia?
+49: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Systemic lupus erythematosus (SLE)?
+50: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Scoliosis?
+51: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Ovarian cysts?
+52: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Endometriosis?
+53: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Polycystic ovary syndrome (PCOS)?
+54: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Erectile dysfunction?
+55: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Premature ejaculation?
+56: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Prostate enlargement?
+57: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Prostate cancer?
+58: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Breast cancer?
+59: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Ovarian cancer?
+60: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Cervical cancer?
+61: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Testicular cancer?
+62: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Skin cancer (melanoma, basal cell carcinoma, squamous cell carcinoma)?
+63: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Leukemia?
+64: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Lymphoma?
+65: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Myocardial infarction (heart attack)?
+66: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Deep vein thrombosis (DVT)?
+67: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Pulmonary embolism?
+68: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hemophilia?
+69: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Anemia?
+70: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hemochromatosis?
+71: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Thalassemia?
+72: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Sickle cell disease?
+73: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypothyroidism?
+74: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hyperthyroidism?
+75: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypoglycemia?
+76: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hyperglycemia?
+77: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hypertensive heart disease?
+78: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Cardiomyopathy?
+79: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Endocarditis?
+80: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Pneumonia?
+81: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Tuberculosis?
+82: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of HIV/AIDS?
+83: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Syphilis?
+84: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chlamydia?
+85: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Gonorrhea?
+86: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Herpes?
+87: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Human papillomavirus (HPV) infection?
+88: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Influenza?
+89: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Measles?
+90: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chickenpox?
+91: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Rubella (German measles)?
+92: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Mumps?
+93: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Hepatitis B?
+94: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Zika virus infection?
+95: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Lyme disease?
+96: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Malaria?
+97: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Dengue fever?
+98: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Yellow fever?
+99: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Chikungunya virus infection?
+100: What is the relationship between HBB gene and  Sickle Cell Anemia when considering the influence of Ebola virus disease?
